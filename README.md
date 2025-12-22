@@ -102,21 +102,11 @@ const suman = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumancoder-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumancoder-cloud&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancoder-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sumancoder-cloud&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
-
-</div>
-
----
 
 ## 📈 Activity
 
