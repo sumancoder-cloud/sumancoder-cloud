@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;MERN+Stack+Expert;Problem+Solver)](https://git.io/typing-svg)
 
-### 🎓 CSE @ SRM University-AP | 💼 Ex-Intern @ Addwise Tech
+### 🎓 CSE @ SRM University-AP | 💼 Ex-Intern @ Addwise Tech Innovations Pvt. Ltd.
 
 [![](https://visitcount.itsvg.in/api?id=sumancoder-cloud&icon=2&color=6)](https://visitcount.itsvg.in)
 
