@@ -1,132 +1,182 @@
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-# Hi 👋 I'm Suman Yadav
+<!-- 🌊 Premium Light Blue Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Suman%20Yadav&fontSize=65&fontAlign=50&fontAlignY=42&animation=twinkling&color=0:00C6FF,33:0072FF,66:3A7BD5,100:00F7FF&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Java%20SE%2017%20Certified&descAlign=50&descAlignY=68&descSize=22&fontColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;MERN+Stack+Expert;Problem+Solver)](https://git.io/typing-svg)
+<br/>
 
-### 🎓 CSE @ SRM University-AP | 💼 Ex-Intern @ Addwise Tech Innovations Pvt. Ltd.
+<!-- 🚀 Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Architectures;Secure+Authentication+Systems;AI-Powered+Real-Time+Applications;Hackathon+Finalist;Oracle+Certified+Java+Professional" />
 
-[![](https://visitcount.itsvg.in/api?id=sumancoder-cloud&icon=2&color=6)](https://visitcount.itsvg.in)
+<br/><br/>
+
+<!-- 🔥 Professional Badges -->
+<img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2017-0072FF?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hackathon-Finalist-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-00F7FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- 👀 Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=sumancoder-cloud&label=Profile%20Views&color=0072FF&style=for-the-badge" />
+
+<br/><br/>
+
+<!-- ⚡ Clean Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer"/>
+
+</div>
+
+---
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/212284126-77d9b7b2-0a7b-4b6f-9c08-7f74f07d5b0f.gif">
+
+🎓 B.Tech CSE — SRM University-AP  
+💼 Former Intern — Addwise Tech Innovations Pvt. Ltd.  
+☕ **Oracle Certified Professional — Java SE 17**  
+🏁 Hackathon Finalist (NeoColab Codeathon)  
+🌍 AIESEC SDG Innovation Hackathon Participant  
+⚡ 300+ DSA Problems Solved  
+
+I build **secure, scalable, production-ready applications** with clean backend architecture and intelligent AI integration.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+
+---
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" />
+
+---
+
+### 🧩 Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres,mongodb,redis" />
+
+---
+
+### 🔐 Security & DevOps
+<img src="https://skillicons.dev/icons?i=postman,linux,docker,githubactions" />
+
+REST APIs • JWT • Cookies • Role-Based Access Control • MFA • CI/CD • Authentication Systems
+
+---
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+---
+
+### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+# 🚀 Featured Projects
+
+## 🛍️ RahaSeva — On-Demand Services Platform  
+**MERN Stack | Secure Authentication | CI/CD**
+
+✨ Multi-role authentication system  
+✨ Real-time bookings & wallet integration  
+✨ JWT-based secure login  
+✨ Automated deployment with GitHub Actions  
+
+🔗 https://github.com/sumancoder-cloud/RahaSeva  
+
+---
+
+## 🚨 AI Driver Drowsiness Detection  
+**Python | OpenCV | TensorFlow**
+
+✨ Real-time fatigue detection  
+✨ 90%+ accuracy  
+✨ Twilio alert integration  
+✨ Performance optimized frame processing  
+
+---
+
+## 🗺️ GPS Tracking System  
+**MERN | Maps API | Real-Time Tracking**
+
+✨ QR-based device pairing  
+✨ Role-based access control  
+✨ Secure backend architecture  
+
+---
+
+# 🏆 Achievements & Certifications
+
+<div align="center">
+
+🎖 Oracle Certified Professional — Java SE 17  
+🏁 Finalist — NeoColab Codeathon Hackathon  
+🌍 Participant — AIESEC SDG Innovation Hackathon  
+💻 300+ DSA Problems Solved  
 
 </div>
 
 ---
 
-## 🚀 What I Do
-
-```javascript
-const suman = {
-    code: ["JavaScript", "Python", "Java", "C++"],
-    expertise: ["Full-Stack Development", "AI/ML", "Computer Vision"],
-    stack: ["MERN", "TensorFlow", "OpenCV"],
-    focus: "Building scalable web apps & intelligent systems"
-};
-```
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 💻 Tech Stack
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumancoder-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumancoder-cloud&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumancoder-cloud&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ RahaSeva
-**MERN Stack | On-Demand Services Platform**
-
-- Multi-role authentication system
-- Real-time bookings & wallet
-- CI/CD with GitHub Actions
-
-[View Project →](https://github.com/sumancoder-cloud/RahaSeva)
-
-</td>
-<td width="50%">
-
-### 🚨 AI Drowsiness Detection
-**Python | OpenCV | MediaPipe**
-
-- Real-time driver fatigue detection
-- 90%+ accuracy rate
-- GSM & Twilio integration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗺️ GPS Tracker App
-**MERN Stack | Maps API**
-
-- Real-time location tracking
-- QR code device pairing
-- Multi-role access control
-
-</td>
-<td width="50%">
-
-### 💻 More Projects
-**Java | DSA | Python**
-
-- 300+ LeetCode problems solved
-- Data Structures implementations
-- Algorithm optimizations
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 📊 GitHub Stats
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumancoder-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
+<img src="https://raw.githubusercontent.com/sumancoder-cloud/sumancoder-cloud/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
----
-
-
-## 📈 Activity
+# 🤝 Let's Connect
 
 <div align="center">
 
-[![Suman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumancoder-cloud&theme=tokyo-night&hide_border=true)](https://github.com/sumancoder-cloud)
+<a href="https://github.com/sumancoder-cloud">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![Snake animation](https://raw.githubusercontent.com/sumancoder-cloud/sumancoder-cloud/output/github-contribution-grid-snake.svg)
+<a href="https://www.linkedin.com/in/tati-suman-yadav-938569351/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://leetcode.com/u/TATI_SUMAN_YADAV/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumancoder-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tati-suman-yadav-938569351/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TATI_SUMAN_YADAV/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suman.tati2005@gmail.com)
+<a href="mailto:suman.tati2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -134,12 +184,8 @@ const suman = {
 
 <div align="center">
 
-### 💡 Open to collaborations on Full-Stack & AI/ML projects!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,100:243B55&section=footer"/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-**⭐ Star my repos if you find them useful!**
+⭐ If you find my work valuable, consider starring my repositories!
 
 </div>
