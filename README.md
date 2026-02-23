@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌊 Premium Light Blue Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Suman%20Yadav&fontSize=65&fontAlign=50&fontAlignY=42&animation=twinkling&color=0:00C6FF,33:0072FF,66:3A7BD5,100:00F7FF&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Java%20SE%2017%20Certified&descAlign=50&descAlignY=68&descSize=22&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Tati%20Suman%20Yadav&fontSize=65&fontAlign=50&fontAlignY=42&animation=twinkling&color=0:00C6FF,33:0072FF,66:3A7BD5,100:00F7FF&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Java%20SE%2017%20Certified&descAlign=50&descAlignY=68&descSize=22&fontColor=ffffff" width="100%"/>
 
 <br/>
 
