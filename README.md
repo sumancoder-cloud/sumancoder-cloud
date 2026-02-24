@@ -10,14 +10,21 @@
 
 <br/><br/>
 
-<!-- 🔥 Professional Badges -->
-<img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2017-0072FF?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/FULL%2FSTACK-Engineer-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathon-Finalist-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN-Stack-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%2FML-Engineer-00F7FF?style=for-the-badge"/>
+<!-- 🚀 Core Roles -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Engineer-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN_Stack_Specialist-16A34A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_&_ML_Engineer-9333EA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
+<!-- 🏆 Certifications & Recognition -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_Certified-Java_SE_17-1E3A8A?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hackathon-Finalist-374151?style=for-the-badge"/>
+</p>
 <br/><br/>
+
+
 
 <!-- 👀 Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=sumancoder-cloud&label=Profile%20Views&color=0072FF&style=for-the-badge" />
