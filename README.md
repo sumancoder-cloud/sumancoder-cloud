@@ -92,35 +92,40 @@ REST APIs • JWT • Cookies • Role-Based Access Control • MFA • CI/CD �
 
 # 🚀 Featured Projects
 
-## 🛍️ RahaSeva — On-Demand Services Platform  
-**MERN Stack | Secure Authentication | CI/CD**
 
-✨ Multi-role authentication system  
-✨ Real-time bookings & wallet integration  
-✨ JWT-based secure login  
-✨ Automated deployment with GitHub Actions  
+## 💬 KlatChat — Interactive Messaging Platform  
+✨ Real-time chatting with friends  
+✨ Play games inside chat  
+✨ Engaging and fun communication experience  
 
-🔗 https://github.com/sumancoder-cloud/RahaSeva  
+🔗 https://github.com/sumancoder-cloud/KlatChat  
+
+---
+
+## 🗺️ GPS Tracking System (QR-Based Tracking)  
+✨ Track real-time location using QR codes  
+✨ Easy monitoring and management system  
+✨ Focused on safety and tracking  
+
+🔗 https://github.com/sumancoder-cloud/TrackingwithQrCode  
 
 ---
 
 ## 🚨 AI Driver Drowsiness Detection  
-**Python | OpenCV | TensorFlow**
+✨ Detects driver fatigue in real-time  
+✨ Alerts users to prevent accidents  
+✨ Improves road safety  
 
-✨ Real-time fatigue detection  
-✨ 90%+ accuracy  
-✨ Twilio alert integration  
-✨ Performance optimized frame processing  
+🔗 https://github.com/sumancoder-cloud/AI_Drowsiness_Detection_System  
 
 ---
 
-## 🗺️ GPS Tracking System  
-**MERN | Maps API | Real-Time Tracking**
+## 📊 Sentiment Analysis System  
+✨ Analyzes user reviews and opinions  
+✨ Identifies positive or negative sentiment  
+✨ Helps understand user feedback easily  
 
-✨ QR-based device pairing  
-✨ Role-based access control  
-✨ Secure backend architecture  
-
+🔗 https://github.com/sumancoder-cloud/SentimentAnalysis  
 ---
 
 # 🏆 Achievements & Certifications
