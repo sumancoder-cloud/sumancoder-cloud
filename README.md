@@ -22,12 +22,12 @@
 I am a full-stack engineer who builds secure backend services, intelligent AI/ML solutions, and polished user experiences. I combine modern architecture, DevOps workflows, and production readiness into every project.
 
 ### Quick profile
-- B.Tech CSE, SRM University-AP
-- Former Intern at Addwise Tech Innovations Pvt. Ltd.
-- Oracle Certified Professional — Java SE 17
-- Hackathon Finalist (NeoColab Codeathon)
-- AIESEC SDG Innovation Hackathon participant
-- 300+ DSA problems solved
+B.Tech CSE, SRM University-AP
+Former Intern at Addwise Tech Innovations Pvt. Ltd.
+Oracle Certified Professional — Java SE 17
+Hackathon Finalist (NeoColab Codeathon)
+AIESEC SDG Innovation Hackathon participant
+300+ DSA problems solved
 
 <br clear="right" />
 
@@ -35,15 +35,15 @@ I am a full-stack engineer who builds secure backend services, intelligent AI/ML
 
 # Work Experience
 
-- **Software Engineering Intern** — Addwise Tech Innovations Pvt. Ltd.
-  - Built backend services using Node.js and Express.
-  - Implemented secure JWT authentication, API endpoints, and database integrations.
-  - Improved project reliability with logging, validation, and performance tuning.
+**Software Engineering Intern** — Addwise Tech Innovations Pvt. Ltd.
+  Built backend services using Node.js and Express.
+  Implemented secure JWT authentication, API endpoints, and database integrations.
+  Improved project reliability with logging, validation, and performance tuning.
 
-- **Freelance Full-Stack Developer**
-  - Delivered responsive web apps with React, REST APIs, and cloud deployments.
-  - Integrated real-time communication, user authentication, and analytics.
-  - Collaborated with design and testing to ship polished user experiences.
+**Freelance Full-Stack Developer**
+  Delivered responsive web apps with React, REST APIs, and cloud deployments.
+  Integrated real-time communication, user authentication, and analytics.
+  Collaborated with design and testing to ship polished user experiences.
 
 ---
 
@@ -58,10 +58,10 @@ I am a full-stack engineer who builds secure backend services, intelligent AI/ML
 
 </div>
 
-- Architecting secure REST and GraphQL APIs
-- Building real-time systems with WebSockets and Socket.IO
-- Integrating ML models into product workflows
-- Deploying apps with Docker, Kubernetes, and Nginx
+Architecting secure REST and GraphQL APIs
+Building real-time systems with WebSockets and Socket.IO
+Integrating ML models into product workflows
+Deploying apps with Docker, Kubernetes, and Nginx
 
 ---
 
@@ -115,10 +115,10 @@ I am a full-stack engineer who builds secure backend services, intelligent AI/ML
 
 # What I Build
 
-- **Smart security platforms** with automated audits, compliance checks, and remediation guidance.
-- **Realtime collaboration apps** that deliver lightweight chat, live notifications, and sync.
-- **Predictive AI systems** that analyze images, text, and behavior in production.
-- **Scalable cloud services** with monitoring, autoscaling, and secure deployment.
+**Smart security platforms** with automated audits, compliance checks, and remediation guidance.
+**Realtime collaboration apps** that deliver lightweight chat, live notifications, and sync.
+**Predictive AI systems** that analyze images, text, and behavior in production.
+**Scalable cloud services** with monitoring, autoscaling, and secure deployment.
 
 ---
 
@@ -163,19 +163,20 @@ I am a full-stack engineer who builds secure backend services, intelligent AI/ML
   <img src="https://img.shields.io/badge/AI%20Builder-22c55e?style=for-the-badge&logo=ai&logoColor=white" alt="ai" />
 </div>
 
-- Oracle Certified Professional, Java SE 17
-- Finalist at NeoColab Codeathon
-- Participant at AIESEC SDG Innovation Hackathon
-- Built secure, scalable applications with AI-driven workflows
+Oracle Certified Professional, Java SE 17
+MongoDB Associate Developer(Certified from MongoDB)
+Finalist at NeoColab Codeathon
+Participant at AIESEC SDG Innovation Hackathon
+Built secure, scalable applications with AI-driven workflows
 
 ---
 
 # Growth & Learning
 
-- Exploring **LLM-powered dev tools** and **GenAI integrations**
-- Improving **system design** for high-availability services
-- Building **computer vision**, **NLP**, and **real-time data systems**
-- Learning advanced **DevOps pipelines** and **observability**
+Exploring **LLM-powered dev tools** and **GenAI integrations**
+Improving **system design** for high-availability services
+Building **computer vision**, **NLP**, and **real-time data systems**
+Learning advanced **DevOps pipelines** and **observability**
 
 ---
 
