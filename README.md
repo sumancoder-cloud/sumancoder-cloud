@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563EB,50:4F46E5,100:7C3AED&text=Tati%20Suman%20Yadav&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Oracle%20Java%20SE%2017%20Certified&descAlignY=65"/>
+
 
 <h1 align="center">Hi 👋, I'm Tati Suman Yadav</h1>
 
